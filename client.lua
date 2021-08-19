@@ -1,4 +1,4 @@
-local discordAppId = 753326351276310629
+local discordAppId = 877724568477900801
 
 Citizen.CreateThread(function()
 	while true do
