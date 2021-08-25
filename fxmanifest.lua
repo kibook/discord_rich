@@ -1,4 +1,7 @@
 fx_version "cerulean"
 game "common"
 
-client_script "client.lua"
+client_scripts {
+	"zoneNames.lua",
+	"client.lua"
+}
